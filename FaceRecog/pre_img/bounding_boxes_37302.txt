@@ -1,0 +1,13 @@
+./pre_img\nuning\nuning_1.png 218 115 331 256
+./pre_img\nuning\nuning_10.png 384 124 519 289
+./pre_img\nuning\nuning_11.png 61 139 206 303
+./pre_img\nuning\nuning_12.png 162 118 287 274
+./pre_img\nuning\nuning_13.png 265 115 402 290
+./pre_img\nuning\nuning_2.png 168 120 299 268
+./pre_img\nuning\nuning_3.png 228 117 348 269
+./pre_img\nuning\nuning_4.png 223 110 345 269
+./pre_img\nuning\nuning_5.png 301 129 426 283
+./pre_img\nuning\nuning_6.png 298 125 424 278
+./pre_img\nuning\nuning_7.png 220 121 336 265
+./pre_img\nuning\nuning_8.png 160 124 285 281
+./pre_img\nuning\nuning_9.png 223 116 335 267

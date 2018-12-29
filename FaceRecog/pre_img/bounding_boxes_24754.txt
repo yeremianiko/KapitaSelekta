@@ -1,0 +1,12 @@
+./pre_img\yeremia\yeremia_1.png 256 144 388 308
+./pre_img\yeremia\yeremia_10.png 261 119 394 289
+./pre_img\yeremia\yeremia_11.png 254 132 377 284
+./pre_img\yeremia\yeremia_12.png 261 133 390 297
+./pre_img\yeremia\yeremia_2.png 233 134 373 300
+./pre_img\yeremia\yeremia_3.png 242 134 372 288
+./pre_img\yeremia\yeremia_4.png 257 134 392 306
+./pre_img\yeremia\yeremia_5.png 240 136 371 294
+./pre_img\yeremia\yeremia_6.png 229 138 354 292
+./pre_img\yeremia\yeremia_7.png 275 134 406 300
+./pre_img\yeremia\yeremia_8.png 274 126 399 293
+./pre_img\yeremia\yeremia_9.png 259 128 387 292
